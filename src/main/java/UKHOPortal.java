@@ -11,11 +11,11 @@ import com.structurizr.view.*;
 /**
  * This is a simple example of how to get started with Structurizr for Java.
  */
-public class Structurizr {
+public class UKHOPortal {
 
-    private static final long WORKSPACE_ID = 1234;
-    private static final String API_KEY = "key";
-    private static final String API_SECRET = "secret";
+    private static final long WORKSPACE_ID = 47220;
+    private static final String API_KEY = "a4ed7081-277b-48f3-bf6d-ebe5d0bec256";
+    private static final String API_SECRET = "d208cc57-8361-40ca-8d41-53c9fef0ec87";
 
     public static void main(String[] args) throws Exception {
         // a Structurizr workspace is the wrapper for a software architecture model, views and documentation
