@@ -1,8 +1,9 @@
 *.iml
 .idea
-.vscode/
-.settings/
+.vscode
+.settings
 .gradle
+.DS_Store
 
 build
 bin/
